@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maneev Arora</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [QuantumDev](https://quantum-dev-xi.vercel.app/)
+- 🔭 I’m currently working on [NexYug Tech](https://nexyugtech.com)
 
 - 🌱 I’m currently learning **Web Development**
 
