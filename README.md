@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **modak.arora.7@gmail.com**
+- 📫 How to reach me **maneev.arora@nexyugtech.com**
 
 - ⚡ Fun fact **I think I am the best!**
 
