@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maneev Arora</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [NexYug Tech](https://nexyugtech.com)
+- 🔭 I’m currently working on AI Automations & Web Development
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **maneev.arora@nexyugtech.com**
+- 📫 How to reach me **modak.arora.7@gmail.com**
 
 - ⚡ Fun fact **I think I am the best!**
 
